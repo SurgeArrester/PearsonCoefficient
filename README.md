@@ -1,2 +1,2 @@
-# PearsonCoefficient
-First assignment for the parallel processing module, demonstrating the MPI C library to create parallel programs
+# Pearson Coefficient
+Two programs to calculate the pearson correlation between two sin waves, one implemented in MPI and the other in OpenMP
